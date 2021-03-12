@@ -9,7 +9,7 @@ class UserDAO
 {
     //Define the connection string
     private $conn;
-    private $dbname = "activity3";
+    private $dbname = "cst256_milestone";
     private $dbQuery;
     private $connection;
     private $dbObj;
